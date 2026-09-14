@@ -1,10 +1,8 @@
 ### Hi, I'm Anurag 👋
 
-Design Automation Engineer aiming to move into in-house Systems Engineer / IT Engineer roles in Japan.
 
 - 🔧 Currently building Python & VBA automation tooling for CAD design workflows (AutoCAD, AP100) at a manufacturing engineering firm, supporting projects for major industrial clients
 - ☁️ Studying for AWS Solutions Architect Associate (SAA-C03)
-- 🌱 Actively pivoting toward in-house systems engineering & IT roles
 - 🇯🇵 Based in Japan · Japanese N4 · English business-conversational
 
 ## 💻 Tech Stack
