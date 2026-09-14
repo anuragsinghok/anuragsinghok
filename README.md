@@ -1,6 +1,5 @@
 ### Hi, I'm Anurag 👋
 
-
 - 🔧 Currently building Python & VBA automation tooling for CAD design workflows (AutoCAD, AP100) at a manufacturing engineering firm, supporting projects for major industrial clients
 - ☁️ Studying for AWS Solutions Architect Associate (SAA-C03)
 - 🇯🇵 Based in Japan · Japanese N4 · English business-conversational
