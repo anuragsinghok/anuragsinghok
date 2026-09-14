@@ -1,10 +1,10 @@
 ### Hi, I'm Anurag 👋
 
-Design Automation Engineer transitioning into infrastructure/systems engineering roles in Japan.
+Design Automation Engineer transitioning into IT/Systems Engineering (社内SE) roles in Japan.
 
 - 🔧 Currently building Python & VBA automation tooling for CAD design workflows (AutoCAD, AP100) at a manufacturing engineering firm, supporting projects for major industrial clients
 - ☁️ Studying for AWS Solutions Architect Associate (SAA-C03)
-- 🌱 Actively pivoting toward infrastructure/cloud and systems engineering work
+- 🌱 Actively pivoting toward IT systems engineering & corporate engineering (社内SE) roles
 - 🇯🇵 Based in Japan · Japanese N4 · English business-conversational
 
 ## 💻 Tech Stack
