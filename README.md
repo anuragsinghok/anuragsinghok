@@ -5,7 +5,7 @@ Engineer in Japan moving toward **product management**: I like finding the probl
 - 🔧 Mechanical systems engineer at a metal parts manufacturer: CAD/CAM design (AutoCAD, AP100) and automating manual design work
 - 🚀 Founder of **[JLPTSpin](https://jlptspin.com)**, a Japanese speaking-practice site I planned, built and launched solo (~6,000 visitors in the first 10 days)
 - 🤖 Use generative AI (Claude) daily to prototype and ship faster
-- 🗣️ Hindi (native) · English (fluent) · Japanese (daily conversation, around JLPT N4–N3, used every day at work)
+- 🗣️ Hindi (native) · English (fluent) · Japanese
 - 🗼 Looking for a PM / PM-track role, Tokyo first (open to other cities and remote) · work visa held, no sponsorship needed
 
 ## 📌 Projects
